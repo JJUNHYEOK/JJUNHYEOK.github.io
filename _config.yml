@@ -103,11 +103,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Football
-      - Competitive Programming
+      - Competitive Programming (<mark><a href="https://solved.ac/profile/spacehyuck" target="_blank">BOJ Silver V</a></mark>)
       - Anything else ..? I will put it when I can imagine it.
 
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
