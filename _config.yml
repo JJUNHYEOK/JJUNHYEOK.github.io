@@ -48,7 +48,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/IMG_2519.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi ! My name is Jun Hyeok. I am an undergraduate intern at the <mark><a href="https://bdss.gnu.ac.kr/" target="_blank">BigData System Software Lab</mark> at GNU, advised by <mark><a href="https://scholar.google.co.kr/citations?user=bUZe0WwAAAAJ&hl=ko&oi=ao" target="_blank">Jaeho Kim</mark>. I am interested in efficient data storage which in high demand these days, especially Solid-State-Drive (SSD). And I also use several algorithms about ML, for testing device reliability and life-cycle. Previously, I am studing with B.S. from GNU in Aerospace and Software engineering(not the double-major).
+  Hi ! My name is Jun Hyeok. I am an undergraduate intern at the <mark><a href="https://bdss.gnu.ac.kr/" target="_blank">BigData System Software Lab</a></mark> at GNU, advised by <mark><a href="https://scholar.google.co.kr/citations?user=bUZe0WwAAAAJ&hl=ko&oi=ao" target="_blank">Jaeho Kim</a></mark>. I am interested in efficient data storage which in high demand these days, especially Solid-State-Drive (SSD). And I also use several algorithms about ML, for testing device reliability and life-cycle. Previously, I am studing with B.S. from GNU in Aerospace and Software engineering(not the double-major).
 
   I am most skilled in: <mark>Python</mark>, <mark>C</mark> and <mark>Football</mark>
 
