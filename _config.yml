@@ -70,21 +70,19 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: |
-          [Coding for SSD](https://github.com/JJUNHYEOK/LAB/blob/main/codingforSSD_1.pdf)  
-          [Applying K-means Algorithm on Hotness Classification](https://github.com/JJUNHYEOK/LAB/blob/main/HotnessClassificaation.pdf)  
-          [Simple SSD Simulator Implementation](https://github.com/JJUNHYEOK/LAB/tree/main/ssd_simulator_simple)
-
-          # this will include new lines to allow paragraphs
+          🔗 [Coding for SSD](https://github.com/JJUNHYEOK/LAB/blob/main/codingforSSD_1.pdf)  
+          🔗 [Applying K-means Algorithm on Hotness Classification](https://github.com/JJUNHYEOK/LAB/blob/main/HotnessClassificaation.pdf)  
+          🔗 [Simple SSD Simulator Implementation](https://github.com/JJUNHYEOK/LAB/tree/main/ssd_simulator_simple)
           
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Coming Soon
+        title: KSC 2024
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Coming Soon
+        sub_title: Korea Software Congress 2024
         # caption: November 2017 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -108,7 +106,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Football
-      - Competitive Programming (<mark><a href="https://solved.ac/profile/spacehyuck" target="_blank">BOJ Silver IV</a></mark>)
+      - Competitive Programming (<mark><a href="https://solved.ac/profile/spacehyuck" target="_blank">BOJ Silver III</a></mark>)
       - Anything else ..? I will put it when I think of it.
 # Look at this cool image  
 # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
