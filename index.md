@@ -8,8 +8,6 @@
 # layout: default
 # ---
 
-
----
 layout: default
 title: 블로그
 permalink: /blog/
