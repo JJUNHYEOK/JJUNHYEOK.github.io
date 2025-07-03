@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jun Hyeok, Jeong
-title: Undergraduate Intern
+title: Undergraduate Student
 email: 2023011929@gnu.ac.kr
 website: github.com/JJUNHYEOK
 
@@ -22,7 +22,7 @@ github_username:  JJUNHYEOK
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: popcornwithcola
-linkedin_username: jameswgrant
+# linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,7 +48,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/IMG_2519.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi ! My name is Jun Hyeok. I am an undergraduate intern at the <mark><a href="https://bdss.gnu.ac.kr/" target="_blank">BigData System Software Lab</a></mark> at GNU, advised by <mark><a href="https://scholar.google.co.kr/citations?user=bUZe0WwAAAAJ&hl=ko&oi=ao" target="_blank">Jaeho Kim</a></mark>. I am interested in efficient data storage which in high demand these days, especially Solid-State-Drive (SSD). And I also use several algorithms about ML, for testing device reliability and life-cycle. Previously, I am studying with B.S. from GNU in Aerospace and Software engineering(not the double-major).
+  Hi ! My name is Jun Hyeok. I am an undergraduate intern at the <mark><a href="https://bdss.gnu.ac.kr/" target="_blank">BigData System Software Lab</a></mark> at GNU, advised by <mark><a href="https://scholar.google.co.kr/citations?user=bUZe0WwAAAAJ&hl=ko&oi=ao" target="_blank">Jaeho Kim</a></mark>. I am interested in efficient data storage which is in high demand these days, especially Solid-State-Drive (SSD). And I also use several algorithms about ML and CP, for testing device reliability and lifespan. Previously, I am studying with B.S. from GNU in Aerospace and Software engineering(not the double-major).
 
   I am most skilled in: <mark>Python</mark>, <mark>C</mark> and <mark>Football</mark>
 
@@ -69,8 +69,13 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Actually, It's not the formal project. But I hope this process helps me to grow in our field. I have learned many concepts and contents through this and been I'm very proud of having this in my portfolio. I wish I can keep doing this until graduate.
+        description: |
+          [Coding for SSD](https://github.com/JJUNHYEOK/LAB/blob/main/codingforSSD_1.pdf)  
+          [Applying K-means Algorithm on Hotness Classification](https://github.com/JJUNHYEOK/LAB/blob/main/HotnessClassificaation.pdf)  
+          [Simple SSD Simulator Implementation](https://github.com/JJUNHYEOK/LAB/tree/main/ssd_simulator_simple)
+
+          # this will include new lines to allow paragraphs
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
