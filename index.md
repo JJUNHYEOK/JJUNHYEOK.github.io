@@ -23,3 +23,9 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
+
+---
+layout: home
+---
+
+[Home](/) | [Blog](/blog/)
