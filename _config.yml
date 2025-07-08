@@ -124,3 +124,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+collections:
+  posts:
+    output: true
