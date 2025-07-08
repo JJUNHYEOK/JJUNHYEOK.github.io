@@ -18,3 +18,17 @@ layout: home
 {{ site.description }}
 
 ... CV 내용 계속 ...
+
+---
+
+## Recent Blog Posts
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
+[블로그 전체 보기](/blog/)
