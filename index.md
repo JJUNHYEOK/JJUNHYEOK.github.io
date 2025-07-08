@@ -8,24 +8,13 @@
 # layout: default
 # ---
 
-layout: default
-title: 블로그
-permalink: /blog/
----
-
-<h1>블로그</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-    </li>
-  {% endfor %}
-</ul>
-
 ---
 layout: home
 ---
 
 [Home](/) | [Blog](/blog/)
+
+{{ site.name }}
+{{ site.description }}
+
+... CV 내용 계속 ...
